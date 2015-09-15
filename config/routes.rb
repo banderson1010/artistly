@@ -1,12 +1,25 @@
 Rails.application.routes.draw do
 <<<<<<< HEAD
+<<<<<<< HEAD
 
   resources :sellers
+=======
+  devise_for :sellers
+  resources :sellers
+  
+ 
+
+  
+
+>>>>>>> master
   get 'welcome/index'
 
   get 'welcome/about'
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 =======
 >>>>>>> master
   resources :artworks

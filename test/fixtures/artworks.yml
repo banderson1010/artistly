@@ -4,6 +4,7 @@ one:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   art: 
 =======
   art: MyString
@@ -13,6 +14,9 @@ one:
 >>>>>>> master
 =======
   art: 
+>>>>>>> master
+=======
+  art: MyString
 >>>>>>> master
   title: MyString
   artist: MyString
@@ -24,6 +28,7 @@ two:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   art: 
 =======
   art: MyString
@@ -33,6 +38,9 @@ two:
 >>>>>>> master
 =======
   art: 
+>>>>>>> master
+=======
+  art: MyString
 >>>>>>> master
   title: MyString
   artist: MyString

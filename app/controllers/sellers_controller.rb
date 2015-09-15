@@ -1,6 +1,13 @@
 class SellersController < ApplicationController
   before_action :set_seller, only: [:show, :edit, :update, :destroy]
+<<<<<<< HEAD
 
+=======
+  before_action :authenticate_seller!, :seller_signed_in?, :current_seller, :seller_session
+
+
+  
+>>>>>>> master
   # GET /sellers
   # GET /sellers.json
   def index
