@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+<<<<<<< HEAD
+<<<<<<< HEAD
+  art: 
+=======
+  art: MyString
+>>>>>>> sdmccloskey/master
+=======
+  art: 
+>>>>>>> master
+  title: MyString
+  artist: MyString
+  price: 1.5
+  type: 
+  description: MyText
+
+two:
+<<<<<<< HEAD
+<<<<<<< HEAD
+  art: 
+=======
+  art: MyString
+>>>>>>> sdmccloskey/master
+=======
+  art: 
+>>>>>>> master
+  title: MyString
+  artist: MyString
+  price: 1.5
+  type: 
+  description: MyText
