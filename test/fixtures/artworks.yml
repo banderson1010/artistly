@@ -3,10 +3,14 @@
 one:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   art: 
 =======
   art: MyString
 >>>>>>> sdmccloskey/master
+=======
+  art: 
+>>>>>>> master
 =======
   art: 
 >>>>>>> master
@@ -19,10 +23,14 @@ one:
 two:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   art: 
 =======
   art: MyString
 >>>>>>> sdmccloskey/master
+=======
+  art: 
+>>>>>>> master
 =======
   art: 
 >>>>>>> master

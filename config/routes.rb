@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
 
   resources :sellers
   get 'welcome/index'
@@ -6,6 +7,8 @@ Rails.application.routes.draw do
   get 'welcome/about'
 
 
+=======
+>>>>>>> master
   resources :artworks
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
